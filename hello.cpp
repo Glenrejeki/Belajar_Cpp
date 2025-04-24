@@ -1,6 +1,7 @@
 #include <iostream>
 
-int main (){
-  std::cout << "Halo dunia";
-  return 0; // program selesai
+int main(){
+  std :: cout << " Halo dunia";
+  return 0;
+  
 }
